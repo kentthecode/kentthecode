@@ -1,6 +1,6 @@
 # KENT JUATON :
 Hi, I’m Kent 
-🎓 Student | Web Development Learner  
+ Student | Web Development Learner  
 
 I’m a student learning web development and building small projects to improve my skills.  
 Focused on clean design, simple code, and continuous learning.
