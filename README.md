@@ -1,4 +1,4 @@
-# About Me:
+# KENT JUATON :
 Hi, I’m Kent 
 🎓 Student | Web Development Learner  
 
